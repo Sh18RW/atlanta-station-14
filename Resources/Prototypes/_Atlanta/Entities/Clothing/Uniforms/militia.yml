@@ -1,0 +1,10 @@
+- type: entity
+  parent: ClothingUniformBase
+  id: AtlantaUniformJumpsuitMilitia
+  name: militia jumpsuit
+  description: A militia jumpsuit. Used by militia soldiers.
+  components:
+  - type: Sprite
+    sprite: _Atlanta/Clothing/Uniforms/Jumpsuit/militia.rsi
+  - type: Clothing
+    sprite: _Atlanta/Clothing/Uniforms/Jumpsuit/militia.rsi
