@@ -1,0 +1,13 @@
+- type: entity
+  parent: ClothingHeadHelmetBasic
+  id: AtlantaHeadHelmetBasic
+  name: militia helmet
+  description: Militia helmet. Used by militia.
+  components:
+  - type: Sprite
+    sprite: _Atlanta/Clothing/Head/Helmets/militia.rsi
+  - type: Clothing
+    sprite: _Atlanta/Clothing/Head/Helmets/militia.rsi
+  - type: HideLayerClothing
+    layers:
+      Hair: HEAD
